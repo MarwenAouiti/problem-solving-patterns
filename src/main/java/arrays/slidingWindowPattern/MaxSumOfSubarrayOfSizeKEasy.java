@@ -2,6 +2,7 @@ package arrays.slidingWindowPattern;
 
 /**
  * Time Complexity O(N), N the size of the array
+ * Space Complexity O(1)
  */
 public class MaxSumOfSubarrayOfSizeKEasy {
     public static int findAverages(int K, int arr[]) {
